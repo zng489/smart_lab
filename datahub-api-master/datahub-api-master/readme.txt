@@ -1,0 +1,1 @@
+docker run -p 8080:5000 -d -v "c:/Users/PC/Desktop/smartlab_datahub/datahub-api-master/datahub-api-master/app":/app smartlab/flask

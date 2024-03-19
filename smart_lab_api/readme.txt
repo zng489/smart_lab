@@ -1,0 +1,1 @@
+conda create -n smart_lab_flask python=3.6
